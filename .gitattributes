@@ -1,0 +1,3 @@
+csv filter=lfs diff=lfs merge=lfs -text
+HackerRank-Developer-Survey-2018-Values.csv filter=lfs diff=lfs merge=lfs -text
+StackOverflow-survey_results_public.csv filter=lfs diff=lfs merge=lfs -text
