@@ -1,5 +1,5 @@
 --- 
-title: "Fondamenti di scienza dei dati"
+title: "Analisi dataset HackerRank 2018"
 date: "`r Sys.Date()`"
 output:
   rmdformats::readthedown:
